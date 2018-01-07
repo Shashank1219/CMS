@@ -1,0 +1,21 @@
+.jfx-button{
+    -fx-background-color: #1976D2;
+    -fx-text-fill: white;
+}
+
+.jfx-button:hover{
+    -fx-background-color: #388E3C;
+}
+
+#pane:hover{
+     -fx-background-color: #1595e8;
+ 
+}
+#pane2{
+     -fx-background-image: url("/images/3.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+
+
